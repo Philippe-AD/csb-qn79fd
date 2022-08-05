@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://philippe-ad.github.io/csb-qn79fd/static/js/main.eba7faf5.chunk.js",
+    "main.js.map": "https://philippe-ad.github.io/csb-qn79fd/static/js/main.eba7faf5.chunk.js.map",
+    "runtime-main.js": "https://philippe-ad.github.io/csb-qn79fd/static/js/runtime-main.7e19ce09.js",
+    "runtime-main.js.map": "https://philippe-ad.github.io/csb-qn79fd/static/js/runtime-main.7e19ce09.js.map",
+    "static/js/2.15922634.chunk.js": "https://philippe-ad.github.io/csb-qn79fd/static/js/2.15922634.chunk.js",
+    "static/js/2.15922634.chunk.js.map": "https://philippe-ad.github.io/csb-qn79fd/static/js/2.15922634.chunk.js.map",
+    "index.html": "https://philippe-ad.github.io/csb-qn79fd/index.html",
+    "precache-manifest.2cd3abc7265fb3cdf0998a425e987fbd.js": "https://philippe-ad.github.io/csb-qn79fd/precache-manifest.2cd3abc7265fb3cdf0998a425e987fbd.js",
+    "service-worker.js": "https://philippe-ad.github.io/csb-qn79fd/service-worker.js",
+    "static/js/2.15922634.chunk.js.LICENSE.txt": "https://philippe-ad.github.io/csb-qn79fd/static/js/2.15922634.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e19ce09.js",
+    "static/js/2.15922634.chunk.js",
+    "static/js/main.eba7faf5.chunk.js"
+  ]
+}
